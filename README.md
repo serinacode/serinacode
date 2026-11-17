@@ -1,16 +1,53 @@
-## Hi there 👋
+# 이윤지 | Yoonji Lee
 
-<!--
-**serinacode/serinacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+한세대학교 융합보안전공 학부생입니다.
+컴퓨터 공학 전공으로 전과할 예정이며
+뇌공학 대학원 진학을 목표로 EEG 신호 분석과
+뇌-컴퓨터 인터페이스(BCI)를 공부하고 있습니다.
 
-Here are some ideas to get you started:
+이 공간에는 연구 과정, 프로젝트에서 직접 수행한 작업,
+논문을 읽으며 배운 내용과 분석 실습을 기록합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 현재 진행 중인 연구와 학습
+
+- EEG와 행동·심리 특성의 관계를 범죄학적 관점에서 탐구하는 논문 준비
+- 관련 선행연구 검토 및 연구 설계 구체화
+- 뇌공학·EEG 관련 논문 읽기 및 학습 기록
+- Python, 데이터 분석 및 인공지능 학습
+
+## 연구 및 프로젝트 경험
+
+### 산업안보 논문경진대회
+- 연구 주제 선정 및 질문지법을 활용한 전체 연구 설계
+- 서론 및 행동경제학 관련 이론적 배경 작성
+- 연구 가설 설정 및 통계 분석을 통한 가설 검증
+- 설문 데이터 분석 전 과정 단독 수행
+  - KMO·Bartlett 검정 및 탐색적 요인분석(EFA)을 통한 타당도 검토
+  - Cronbach’s α를 통한 신뢰도 검토
+  - 상관분석, 다중공선성 검토 및 위계적 회귀분석 수행
+  - HC3 강건 표준오차를 적용한 추론
+  - PROCESS Model 4 및 부트스트랩 10,000회를 활용한 매개효과 검증
+- 분석 결과 해석과 전체 원고 수정
+
+### HatchMind | 블록체인 해커톤
+- FlyWire 초파리 뇌 연결망 데이터를 활용한 캐릭터 진화 시스템 기획에 참여
+- 신경회로의 학습·보상 개념을 프로젝트에 연결하고 설명 자료 작성
+- Three.js와 SWC 형식의 뉴런 데이터를 활용한 3차원 뇌 시각화 구현
+- 전체 뇌에서 학습·보상 관련 회로로 이어지는 단계별 시연 구성
+- 색상 강조와 카메라 전환을 활용한 시연 영상 제작
+- 기획서의 뇌공학 관련 설명 작성 및 최종 문서 검수
+- 팀 프로젝트는 블록체인을 활용한 진화·보상 기록 관리를 포함하며,
+  본인은 뇌공학 설명과 시각화 작업을 중심으로 담당
+- 팀 프로젝트 포크 저장소: [Abraxas](https://github.com/serinacode/Abraxas)
+
+### 교수 연구 참여 | 온라인 아동·청소년 보호 관련 데이터 분석
+- 학부생 연구원으로 교수 주도 연구에 참여
+- 수집된 데이터 6,175건의 내용 분석 및 분류 작업 수행
+- 연구자료 및 세부 결과는 비공개
+
+## 기록할 내용
+
+- Research Notes: 연구 질문, 분석 과정과 판단
+- Paper Reviews: 읽은 논문의 핵심 내용과 질문
+- Projects: 프로젝트 결과물과 본인 기여
+- Study Notes: Python·데이터 분석·AI 학습 기록
